@@ -54,10 +54,10 @@ NEU Metal Surface Defects/
 
 ## Requirements
 
- ###### Python 3.7+
- ###### Super Gradients Library
- ###### PyTorch
- ###### Additional dependencies in requirements.txt
+ ##### Python 3.7+
+ ##### Super Gradients Library
+ ##### PyTorch
+ ##### Additional dependencies in requirements.txt
 
 ##### Install dependencies:
  ### pip install -r requirements.txt
@@ -73,6 +73,10 @@ NEU Metal Surface Defects/
  #### mAP@0.5: 0.85
  #### Precision: 0.82
  #### Recall: 0.78
+
+## Visualization
+ ![image](https://github.com/user-attachments/assets/a398a19f-1d3f-4a7c-9885-e3f4e27703d5)
+
  
  
 
