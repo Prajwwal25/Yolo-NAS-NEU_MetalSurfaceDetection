@@ -40,6 +40,43 @@ NEU Metal Surface Defects/
   ##### Training Set: 1,656 images
   ##### Validation Set: 72 images
   ##### Test Set: 72 images
+
+###  Model : YOLOv3 implementation for object detection.
+
+### Metrics: Evaluation using mAP@0.5, Precision, and Recall.
+
+### Visualization: Bounding boxes on test images.
+
+
+## Requirements
+
+ ###### Python 3.7+
+ ###### Super Gradients Library
+ ###### PyTorch
+ ###### Additional dependencies in requirements.txt
+
+##### Install dependencies:
+ ### pip install -r requirements.txt
+
+
+## Metrics Displayed
+ ### mAP@0.5: Mean Average Precision at IoU threshold 0.5.
+ ### Precision: Ratio of true positives to all predicted positives.
+ ### Recall: Ratio of true positives to all ground truth objects.
+
+## Example Output
+ ### Validation Results:
+ #### mAP@0.5: 0.85
+ #### Precision: 0.82
+ #### Recall: 0.78
+ 
+ 
+
+
+
+
+
+
  
 
  
