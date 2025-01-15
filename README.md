@@ -1,4 +1,4 @@
-# Steel Surface Defect Detection using SuperGradients and YOLO-NAS
+# YOLO-NAS
 
 ## Overview
 This project implements a deep learning solution for detecting and classifying steel surface defects using the SuperGradients library and a YOLO-NAS object detection model. The system is designed to identify various types of surface defects in steel materials, making it useful for quality control in manufacturing environments.
