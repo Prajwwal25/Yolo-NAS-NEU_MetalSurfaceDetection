@@ -59,8 +59,8 @@ NEU Metal Surface Defects/
  ##### PyTorch
  ##### Additional dependencies in requirements.txt
 
-##### Install dependencies:
- ### pip install -r requirements.txt
+### Install dependencies:
+ #### pip install -r requirements.txt
 
 
 ## Metrics Displayed
