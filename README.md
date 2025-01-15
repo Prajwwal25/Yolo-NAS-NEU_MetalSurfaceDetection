@@ -8,7 +8,7 @@
  ###### Number of Defect Categories: 6
  ###### Images per Category: 300
 
-## Defect Categories
+#### Defect Categories
  ###### Rolled-in Scale (RS): Appears as dark elongated patches
  ###### Patches (Pa): Surface breaking with localized corrosion
  ###### Crazing (Cr): Interconnected surface breaking
@@ -16,7 +16,7 @@
  ###### Inclusion (In): Embedded foreign materials
  ###### Scratches (Sc): Linear surface marks or indentations
 
-## Dataset Structure
+#### Dataset Structure
  
 NEU Metal Surface Defects/
 ├── train/
@@ -31,7 +31,12 @@ NEU Metal Surface Defects/
 └── test/
     └── [same structure as train]
 
- ## Data Split
+
+
+
+
+
+ #### Data Split
   ##### Training Set: 1,656 images
   ##### Validation Set: 72 images
   ##### Test Set: 72 images
