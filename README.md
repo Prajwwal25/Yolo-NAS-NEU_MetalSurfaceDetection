@@ -64,9 +64,9 @@ NEU Metal Surface Defects/
 
 
 ## Metrics Displayed
- ### mAP@0.5: Mean Average Precision at IoU threshold 0.5.
- ### Precision: Ratio of true positives to all predicted positives.
- ### Recall: Ratio of true positives to all ground truth objects.
+ #### mAP@0.5: Mean Average Precision at IoU threshold 0.5.
+ #### Precision: Ratio of true positives to all predicted positives.
+ #### Recall: Ratio of true positives to all ground truth objects.
 
 ## Example Output
  ### Validation Results:
