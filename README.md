@@ -75,7 +75,9 @@ NEU Metal Surface Defects/
  #### Recall: 0.78
 
 ## Visualization
- ![image](https://github.com/user-attachments/assets/a398a19f-1d3f-4a7c-9885-e3f4e27703d5)
+
+  ![image](https://github.com/user-attachments/assets/5c10ffee-72e8-49b9-a065-6615a3d0871a)
+
 
  
  
